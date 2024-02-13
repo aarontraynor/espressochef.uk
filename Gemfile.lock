@@ -279,7 +279,7 @@ PLATFORMS
   x86_64-linux-android
 
 DEPENDENCIES
-  github-pages
+  github-pages (~> 230)
   http_parser.rb (~> 0.6.0)
   jekyll-feed (~> 0.12)
   minima (~> 2.5)
